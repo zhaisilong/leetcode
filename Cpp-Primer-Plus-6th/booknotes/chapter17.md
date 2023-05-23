@@ -20,7 +20,7 @@
 
 ## 17.1 C++输入和输出概述
 
-C++依赖于C++的I/O解决方案，而不是C语言的I/O解决方 案，前者是在头文件iostream（以前为iostream.h）和fstream（以前为 fstream.h）中定义一组类。
+C++ 依赖于 C++ 的I/O解决方案，而不是C语言的I/O解决方 案，前者是在头文件iostream（以前为iostream.h）和fstream（以前为 fstream.h）中定义一组类。
 
 ### 17.1.1 流和缓冲区
 
